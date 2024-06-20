@@ -1,0 +1,38 @@
+@article{author = {Chaykina, Maria and Cuccu, Liliana and Pontarollo, Nicola},
+title = {Two faces of discontent in Italy: One looking to the North and one to the South},
+journal = {Environment and Planning B: Urban Analytics and City Science},
+volume = {49},
+number = {8},
+pages = {2283–2286},
+year = {2022a},
+doi = {10.1177/23998083221116890},
+url = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221116890},
+eprint = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221116890},
+abstract = {In this paper, we analyse the spatial distribution of anti-EU and populist vote across Italian municipalities. A clear geographical divide is found, with northern municipalities supporting anti-EU parties and southern ones the populist parties. This knowledge is fundamental for the development of effective place-specific policies.}
+}
+
+@article{author = {Corburn, Jason},
+title = {Water and sanitation for all: Citizen science, health equity, and urban climate justice},
+journal = {Environment and Planning B: Urban Analytics and City Science},
+volume = {49},
+number = {8},
+pages = {2044–2053},
+year = {2022b},
+doi = {10.1177/23998083221094836},
+url = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221094836},
+eprint = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221094836}
+}
+
+@article{author = {Patel, Amit and Borja-Vega, Christian and Mimmi, Luisa M and Soukup, Tomas and Kolomaznik, Jan and Bhan, Tanushree and Mundt, Marcia D and Lee, Hyunjung},
+title = {Predicting housing deprivation from space in the slums of Dhaka},
+journal = {Environment and Planning B: Urban Analytics and City Science},
+volume = {49},
+number = {8},
+pages = {2112–2128},
+year = {2022c},
+doi = {10.1177/23998083221123589},
+url = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221123589},
+eprint = {https://doi-org.proxy.lib.pdx.edu/10.1177/23998083221123589},
+abstract = {Cities in developing countries have been struggling to deal with the pressures of urbanization on infrastructure, basic services, land, and housing that often manifest as poor living conditions found in slums and informal settlements. One of the key challenges to effectively target policy interventions and meet Sustainable Development Goals (SDGs) for improving lives of people living in slums is the lack of data on their housing condition. Furthermore, the slum/non-slum dichotomy is inadequate in identifying specific deprivations that prevents effective policymaking and implementation. To this end, we propose a methodological framework to predict multidimensional housing deprivation with slums of Dhaka, Bangladesh as our case study. Our framework predicts multidimensional housing deprivation using geospatial and remote sensing variables. Several indicators, including distance to the central business district, arterial roads, major road junctions, railroads, average dwelling size, and street type within slums were related to increased risk of overall deprivation whereas proximity to heavy industry and shoreline, building density, informal street pattern, the low-level connectivity and proximity to social amenities were related to lower risk of housing deprivation. The results from the statistical models indicate their potential to predict the extent and type of housing deprivation, which could in turn support planning and policy interventions for achieving SDGs for the most vulnerable populations in slums of developing countries.}
+}
+
